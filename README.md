@@ -42,3 +42,8 @@ http://r5i.github.io/gh_pages/examples/jumbotron/index.html)
     *   [Select Boxes](http://r5i.github.io/gh_pages/javascript/index.html#select-boxes)
     *   [Checkbox Toggle](http://r5i.github.io/gh_pages/javascript/index.html#checkbox-toggle)
 5.  Questions?
+
+
+Examples:
+ * [Navbar](http://jsfiddle.net/rM69B/)
+ * [Tabs](http://jsfiddle.net/Ryc5V/)
